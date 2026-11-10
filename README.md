@@ -152,8 +152,5 @@ Try this flow:
 
 ## Team
 
-Built for a healthcare hackathon by **TEAM NAME HERE**.
+Built for a  hackathon by Team Visioneers
 
-## License
-
-Add a license here (for example MIT) or remove this section.
