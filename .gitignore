@@ -1,0 +1,23 @@
+﻿# secrets
+.env
+*.env
+!.env.example
+
+# backend
+__pycache__/
+*.pyc
+venv/
+.venv/
+uploads/
+*.db
+*.sqlite3
+
+# frontend
+node_modules/
+dist/
+.vite/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
