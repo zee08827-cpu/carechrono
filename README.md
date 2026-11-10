@@ -1,7 +1,7 @@
 # CARECHRONO — Beyond Medical Storage
 
 > **A Patient-Centred Web Platform for Chronic Disease Management**  
-> Tailored for patients navigating Type 2 Diabetes, Hypertension, and Cardiovascular conditions.
+> Tailored for patients navigating Type 2 Diabetes, Hypertension, and Cardiovascular conditions and Many other Chronic Diseases
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111.0-teal)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-18.3.1-blue)](https://react.dev)
